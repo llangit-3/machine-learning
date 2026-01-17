@@ -13,3 +13,6 @@ I did all the things inside of each projects. No AI is involved.
 ## Dataset
 ### 1. Appliances Energy Prediction - Linear Regression
 This dataset is used in the linear_regression - appliance_energy_prediction, you can download the dataset here: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
+
+### 1. Aussie Rain Prediction - Logistic Regression
+For this one is used in the logistic_regression - Aussie_Rain repo, and you can download the dataset here: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
