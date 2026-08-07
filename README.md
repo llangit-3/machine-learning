@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Statistical Learning Projects
 This repository consist of my learning outcomes and my projects, 
 more interesting project will be present.
 I did all the things inside of each projects. No AI is involved.
